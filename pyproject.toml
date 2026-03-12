@@ -1,0 +1,12 @@
+[project]
+name = "gmf-questionnaire"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "langchain>=1.1.0",
+    "langchain-openai>=1.1.0",
+    "sqlalchemy>=2.0.44",
+    "streamlit>=1.52.0",
+]

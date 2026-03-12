@@ -171,5 +171,13 @@ textColor = "#000000"
 
 ---
 
+## 📚 引用
+
+如果您在研究中使用本问卷或参考此项目，请引用：
+
+> Xi, Q., Zeng, J., Li, Z., & Schäfer, M. S. (2026). Personalized Persuasion Through Conversational AI: Can DeepSeek Change Perceptions of Genetically Modified Foods in China? *Media and Communication*, 14(0). https://www.cogitatiopress.com/mediaandcommunication/article/view/11451
+
+---
+
 **版本**: 0.1.0
 **最后更新**: 2026-03-12

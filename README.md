@@ -171,5 +171,13 @@ This project is for academic research purposes only.
 
 ---
 
+## 📚 Citation
+
+If you use this questionnaire or reference this project in your research, please cite:
+
+> Xi, Q., Zeng, J., Li, Z., & Schäfer, M. S. (2026). Personalized Persuasion Through Conversational AI: Can DeepSeek Change Perceptions of Genetically Modified Foods in China? *Media and Communication*, 14(0). https://www.cogitatiopress.com/mediaandcommunication/article/view/11451
+
+---
+
 **Version**: 0.1.0
 **Last Updated**: 2026-03-12
